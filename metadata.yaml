@@ -13,6 +13,9 @@ contributor:
     deathdate: 1946
     gutenberg_agent_id: '7765'
     url: http://www.gutenberg.org/2009/agents/7765
+covers:
+- cover_type: archival
+  image_path: 69225-h/images/cover.jpg
 creator:
   author:
     agent_name: Bonner, Mary Graham
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '40043'
     url: http://www.gutenberg.org/2009/agents/40043
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69225#365-bedtime-stories
 gutenberg_issued: '2022-10-24'
 identifiers:
   gutenberg: '69225'
